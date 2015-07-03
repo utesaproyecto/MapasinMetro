@@ -1,1 +1,10 @@
 C:\Users\OrlandoRodriguez\Documents\GitHub\PruebaMapaConMetroDesign\MapaSinMetro\MapaSinMetro\bin\Debug\MapaSinMetro.exe.config
+C:\Users\cindy altagracia\Desktop\MapasinMetro\MapaSinMetro\MapaSinMetro\bin\Debug\MapaSinMetro.exe.config
+C:\Users\cindy altagracia\Desktop\MapasinMetro\MapaSinMetro\MapaSinMetro\bin\Debug\MapaSinMetro.exe
+C:\Users\cindy altagracia\Desktop\MapasinMetro\MapaSinMetro\MapaSinMetro\bin\Debug\MapaSinMetro.pdb
+C:\Users\cindy altagracia\Desktop\MapasinMetro\MapaSinMetro\MapaSinMetro\obj\Debug\MapaSinMetro.csprojResolveAssemblyReference.cache
+C:\Users\cindy altagracia\Desktop\MapasinMetro\MapaSinMetro\MapaSinMetro\obj\Debug\MapaSinMetro.Form1.resources
+C:\Users\cindy altagracia\Desktop\MapasinMetro\MapaSinMetro\MapaSinMetro\obj\Debug\MapaSinMetro.Properties.Resources.resources
+C:\Users\cindy altagracia\Desktop\MapasinMetro\MapaSinMetro\MapaSinMetro\obj\Debug\MapaSinMetro.csproj.GenerateResource.Cache
+C:\Users\cindy altagracia\Desktop\MapasinMetro\MapaSinMetro\MapaSinMetro\obj\Debug\MapaSinMetro.exe
+C:\Users\cindy altagracia\Desktop\MapasinMetro\MapaSinMetro\MapaSinMetro\obj\Debug\MapaSinMetro.pdb
